@@ -23,8 +23,39 @@
               "icon": "lucide-file",
               "title": "home"
             }
+          },
+          {
+            "id": "e900426b89de1e8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "从这开始.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "从这开始"
+            }
+          },
+          {
+            "id": "8abb7821bb39ad30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "逆向/2.smali及其语法.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.smali及其语法"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,6 +117,16 @@
               "icon": "sheets-in-box",
               "title": "File Tree"
             }
+          },
+          {
+            "id": "8d45aecb2f7aa888",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       },
@@ -108,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.9945435523987
+    "width": 236.5
   },
   "right": {
     "id": "4e390742ffc29613",
@@ -125,8 +166,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -237,14 +278,8 @@
   "left-ribbon": {
     "hiddenItems": {
       "canvas:新建白板": false,
-      "surfing:surfing-bookmark-manager": false,
-      "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false,
       "periodic-notes:Open today's daily note": false,
-      "dbfolder:创建一个新数据库表": false,
-      "obsidian-projects:Open projects": false,
-      "templater-obsidian:Templater": false,
-      "cmdr:显示当前文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -253,14 +288,35 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "audio-recorder:开始/结束录音": false,
       "workspaces:管理工作区布局": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "dbfolder:创建一个新数据库表": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "cmdr:显示当前文件": false
     }
   },
-  "active": "8a060842919d9771",
+  "active": "8abb7821bb39ad30",
   "lastOpenFiles": [
-    "从这开始.md",
-    "逆向",
+    "逆向/番茄小说爬虫.md",
+    "逆向/投屏.md",
+    "逆向/易语言.md",
     "01-Template/home.md",
+    "01-Template/彩色时钟.md",
+    "从这开始.md",
+    "30-Example/任务卡片-dataview 任务查询举例.md",
+    "逆向/adb指令.md",
+    "逆向/CMS视频资源站.md",
+    "逆向/python爬虫.md",
+    "逆向/README.md",
+    "逆向/Python.md",
+    "逆向/pyinstaller打包.md",
+    "逆向/Ubuntu.md",
+    "逆向/2.smali及其语法.md",
+    "逆向/JS逆向.md",
+    "逆向",
+    "01-Template/01-Template.md",
+    "逆向",
     "20-Diary/query.md",
     "20-Diary/memos模板.md",
     "20-Diary/delete.md",
@@ -269,20 +325,6 @@
     "20-Diary/当月笔记串联.md",
     "20-Diary/案例进展情况.md",
     "10-Help/10-Help.md",
-    "02-Tips/02-Tips.md",
-    "01-Template/01-Template.md",
-    "30-Example/任务卡片-dataview 任务查询举例.md",
-    "30-Example/◾ Dataview相关实例/dataview实现任务查询（替代tasks插件）.md",
-    "02-Tips/🥑Blue Topaz Themes Tips.md",
-    "01-Template/常用工具.md",
-    "30-Example/◾ Dataview相关实例/微信读书清单.md",
-    "01-Template/彩色时钟.md",
-    "03-Attachment/主题截图分享.md",
-    "03-Attachment/03-Attachment.md",
-    "Demo Note.md",
-    "README.md",
-    "20-Diary/2024-10-30.md",
-    "01-Template/tp/tp.md",
-    "01-Template/🎵Music.md"
+    "02-Tips/02-Tips.md"
   ]
 }

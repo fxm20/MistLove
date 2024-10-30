@@ -13,8 +13,8 @@
             "state": {
               "type": "memos_view",
               "state": {},
-              "icon": "Memos",
-              "title": "Memos"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -30,9 +30,19 @@
               "icon": "lucide-file",
               "title": "案例进展情况"
             }
+          },
+          {
+            "id": "d97868f2461d1a80",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Memos"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +144,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5c2be7b67edba1a8",
+  "active": "d97868f2461d1a80",
   "lastOpenFiles": [
     "任务看板.md",
     "日记统计.md",
