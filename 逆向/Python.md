@@ -1,3 +1,10 @@
+---
+tags: 
+cssclass:
+source:
+created: "2024-10-30 22:19"
+updated: "2024-10-30 22:30"
+---
 
 
 
@@ -6,7 +13,7 @@
 
 ###### 常用的数值类型
 
-![image-20240921143037514](./Pictures/image-20240921143037514.png)
+![[[image-20240921143037514.png.png]]](./Pictures/image-20240921143037514.png)
 
 ---
 
@@ -43,7 +50,7 @@ s_type=type(s)
 
 ###### 数据类型转换
 
-![image-20240921153123918](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240921153123918.png)
+![[image-20240921153123918.png]](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240921153123918.png)
 
 ```python
 # 将数字类型转换为字符串
@@ -82,11 +89,11 @@ print(type(float_int),float_int)
 
 ---
 
-######  运算符
+###### 运算符
 
 ---
 
-![image-20240921160836535](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240921160836535.png)
+![[image-20240921160836535.png]](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240921160836535.png)
 
 ```python
 # 算术（数学）运算符
@@ -102,7 +109,7 @@ print("2**2=",2**2)
 
 ###### 复合运算符
 
-![image-20240921161909817](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240921161909817.png)
+![[image-20240921161909817.png]](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240921161909817.png)
 
 ```python
 # 算术（数学）运算符
@@ -141,9 +148,9 @@ print("num //=2:",num)
 
 ---
 
-![image-20240921170357310](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240921170357310.png)
+![[image-20240921170357310.png]](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240921170357310.png)
 
-![image-20240921173407921](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240921173407921.png)
+![[image-20240921173407921.png]](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240921173407921.png)
 
 ###### 字符串格式化-数字精度控制
 
@@ -173,11 +180,11 @@ print(f"1*2的结果是{1*2}")
 print(f"字符串在Python中的类型名是:%s"%type("字符串"))
 ```
 
-![image-20240921181537454](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240921181537454.png)
+![[image-20240921181537454.png]](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240921181537454.png)
 
 <font color='orange'>课后小作业</font>
 
-![image-20240921183950280](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240921183950280.png)
+![[image-20240921183950280.png]](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240921183950280.png)
 
 ```python
 # 公司名
@@ -214,7 +221,7 @@ print("你的银行卡密码类型是:%s"%(type(num)) )
 
 ###### 比较运算符
 
-![image-20240921191010984](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240921191010984.png)
+![[image-20240921191010984.png]](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240921191010984.png)
 
 ###### if语句的基本格式
 
@@ -272,8 +279,6 @@ while 条件:
 	执行
 ```
 
-
-
 ###### print<font color='red'>不换行功能</font>
 
 在语句中加入end=‘’
@@ -306,7 +311,7 @@ print(count)
 
 ###### range语句
 
-![image-20240922165624241](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240922165624241.png)
+![[image-20240922165624241.png]](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240922165624241.png)
 
 ```
 语法1:
@@ -322,7 +327,7 @@ print(count)
 
 ###### for和while的相互嵌套
 
-######  循环中断	<font color='red'>countinue 和break</font>
+###### 循环中断	<font color='red'>countinue 和break</font>
 
 countinue是跳过(临时中断)
 
@@ -340,19 +345,19 @@ def 函数名(传入参数):
 
 <font color='red'>函数的调用</font>  	<font color='orange'>函数名(参数)</font>
 
-![image-20240922182634478](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240922182634478.png)
+![[image-20240922182634478.png]](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240922182634478.png)
 
 ###### 函数的返回值 return
 
 ###### 函数返回值none类型
 
-![image-20240922185602931](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240922185602931.png)
+![[image-20240922185602931.png]](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240922185602931.png)
 
 在if判断语句中 none等同于Falsse
 
 None用于声明无初始内容的变量
 
-![image-20240922185915899](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240922185915899.png)
+![[image-20240922185915899.png]](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240922185915899.png)
 
 ###### 函数对的说明文档
 
@@ -369,11 +374,11 @@ global关键字声明变量,可将局部变量声明成全局变量
 
 格式 global 变量名
 
-![image-20240922191138248](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240922191138248.png)
+![[image-20240922191138248.png]](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240922191138248.png)
 
 ###### 使用函数来完成银行系统
 
-![image-20240922191247997](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240922191247997.png)
+![[image-20240922191247997.png]](C:\Users\w2071\Documents\文档\Documents\python\Python.assets\image-20240922191247997.png)
 
 ##### 数据容器
 
@@ -444,7 +449,7 @@ index(查询方法)
 
 ---
 
-练习![image-20240923180306283](./Pictures/image-20240923180306283.png)
+练习![[image-20240923180306283.png]](./Pictures/image-20240923180306283.png)
 
 ###### list(列表)的遍历
 
@@ -466,11 +471,11 @@ for 临时变量 in 数据容器:
 	print(临时变量)
 ```
 
-![image-20240923172221289](./Pictures/image-20240923172221289.png)
+![[image-20240923172221289.png]](./Pictures/image-20240923172221289.png)
 ---
 <font color='red'>练习</font>
 
-![image-20240923172244541](./Pictures/image-20240923172244541.png)
+![[image-20240923172244541.png]](./Pictures/image-20240923172244541.png)
 
 ###### 数据容器:tuple(元组)(只能查询,不能修改)
 
@@ -488,12 +493,10 @@ data_list.append([province_name, province_confirm])
 
 元组的练习
 
-![image-20240923182657257](./Pictures/image-20240923182657257.png)
+![[image-20240923182657257.png]](./Pictures/image-20240923182657257.png)
 
 ```
 ```
-
-
 
 ###### 数据容器:str(字符串)
 
@@ -538,9 +541,7 @@ data_list.append([province_name, province_confirm])
 字符串名称[::-1]
 ```
 
-
-
-![image-20240924110117432](./Pictures/image-20240924110117432.png)
+![[image-20240924110117432.png]](./Pictures/image-20240924110117432.png)
 
 ###### 数据容器的切片
 
@@ -549,8 +550,6 @@ data_list.append([province_name, province_confirm])
 ```
 语法:序列[其实下标:结束下标:步长]
 ```
-
-
 
 ###### 数据容器:set(集合)
 
@@ -576,7 +575,7 @@ data_list.append([province_name, province_confirm])
 #集合遍历只能用 for循环
 ```
 
-![image-20240924175540469](./Pictures/image-20240924175540469.png)
+![[image-20240924175540469.png]](./Pictures/image-20240924175540469.png)
 
 ###### 数据容器:dict(字典,映射)
 
@@ -605,15 +604,13 @@ data_list.append([province_name, province_confirm])
 方式二:直接对字典for循环
 ```
 
-![image-20240924185639976](./Pictures/image-20240924185639976.png)
+![[image-20240924185639976.png]](./Pictures/image-20240924185639976.png)
 
 ###### 数据容器的通用操作
 
 - 除了集合和字典不能使用while循环遍历,其他的都支持for和while遍历
-
-- len(容器)长度  最大长度max(容器) 最小长度min(容器)
-
-- 容器的转换 list(容器)转换为列表  str(容器)转换为字符串 tuple(容器)转换为元祖 set(容器)转换为集合
+- len(容器)长度 最大长度max(容器) 最小长度min(容器)
+- 容器的转换 list(容器)转换为列表 str(容器)转换为字符串 tuple(容器)转换为元祖 set(容器)转换为集合
 
 - ----
 
@@ -625,11 +622,9 @@ data_list.append([province_name, province_confirm])
 sorted(容器,[revers=True])  ######revers=True翻转也就是从大到小
 ```
 
-
-
 数据容器分类
 
-![image-20240924224337405](./Pictures/image-20240924224337405.png)
+![[image-20240924224337405.png]](./Pictures/image-20240924224337405.png)
 
 数据的使用场景
 
@@ -678,7 +673,7 @@ def 函数名 (a,b,c):
     你的名字是小王,年龄是18,性别是男
 ```
 
-######  缺省参数:当调用函数时没有传递参数,就会使用默认是用缺省参数对应的值 
+###### 缺省参数:当调用函数时没有传递参数,就会使用默认是用缺省参数对应的值 
 
 ```
 def 函数名 (a,b,c=男):
@@ -796,8 +791,6 @@ with open("C:/Users/w2071/Desktop/激活码.txt","r",encoding='utf-8')as f:
 
 ---
 
-
-
 ```
 #1.打开文件
 f =open('python.txt',"w")
@@ -882,7 +875,7 @@ finally:
 	f.close()
 ```
 
-![image-20240927192112955](./Pictures/image-20240927192112955.png)
+![[image-20240927192112955.png]](./Pictures/image-20240927192112955.png)
 
 ###### 使用except:或者exceptException捕获所有异常
 
@@ -920,11 +913,11 @@ if __name__ == '__main__':
 	
 ```
 
-“__  all __”变量
+“__ all __”变量
 
-![image-20240927202637025](./Pictures/image-20240927202637025.png)
+![[image-20240927202637025.png]](./Pictures/image-20240927202637025.png)
 
-![image-20240927202801735](./Pictures/image-20240927202801735.png)
+![[image-20240927202801735.png]](./Pictures/image-20240927202801735.png)
 
 ---
 
@@ -942,8 +935,6 @@ pip网络优化
 ```
 pip install -i https://pypi.tuna.tsinghjua.edu.cn/simple 包的名称
 ```
-
-
 
 ##### 科学计算常用的包:numpy包
 
@@ -973,8 +964,6 @@ data=json.dumps(data)
 data=json.loads(data)
 ```
 
-
-
 ```
 dumps语法
 ensure_ascii=False转化为中文
@@ -982,11 +971,11 @@ ensure_ascii=False转化为中文
 
 json.loads(将字符串转为列表或者字典)
 
-![image-20240928234819502](./Pictures/image-20240928234819502.png)
+![[image-20240928234819502.png]](./Pictures/image-20240928234819502.png)
 
  
 
-#####  pyecharts第三包案列 数据可视化
+##### pyecharts第三包案列 数据可视化
 
 ###### 基础折线图
 
@@ -1018,13 +1007,13 @@ line.set_global_opts(
 
 视觉映射器
 
-![image-20240930120830872](./Pictures/image-20240930120830872.png)
+![[image-20240930120830872.png]](./Pictures/image-20240930120830872.png)
 
 #### 动态柱状图的开发
 
 ###### 基础的柱状图
 
-![image-20240930141910768](./Pictures/image-20240930141910768.png)
+![[image-20240930141910768.png]](./Pictures/image-20240930141910768.png)
 
 ###### xy轴反转
 
@@ -1040,7 +1029,7 @@ label_opts=LabelOpts(
     作用可以让数值跑到右边
 ```
 
-![image-20240930143257844](./Pictures/image-20240930143257844.png)
+![[image-20240930143257844.png]](./Pictures/image-20240930143257844.png)
 
 ###### 基础时间线
 
@@ -1049,8 +1038,6 @@ from pyecharts.charts import Bar, Timeline
 timelin=Timeline()
 timeline.add(柱状图,"名字")
 ```
-
-
 
 ```python
 #设置自动播放
@@ -1076,7 +1063,7 @@ timeline=Timeline(
 
 主题
 
-###### ![image-20240930145252090](./Pictures/image-20240930145252090.png)
+###### ![[image-20240930145252090.png]](./Pictures/image-20240930145252090.png)
 
 ###### GDP动态图标的绘制
 
@@ -1094,8 +1081,6 @@ timeline=Timeline(
 语法:
 lambda 传入参数:函数体(一行代码)
 ```
-
-
 
 科学计数法通过float可以转换为数字(float函数无视换行符)
 
@@ -1138,7 +1123,7 @@ def 方法名(self,形参1,形参2):
 
 ###### 构造方法使用__int__()构造方法
 
-![image-20240930204628524](./Pictures/image-20240930204628524.png)
+![[image-20240930204628524.png]](./Pictures/image-20240930204628524.png)
 
 ##### 魔术方法
 
@@ -1174,7 +1159,7 @@ __lt__小于大于符号比较
 内容:自行定义
 ```
 
-![image-20240930213844109](./Pictures/image-20240930213844109.png)
+![[image-20240930213844109.png]](./Pictures/image-20240930213844109.png)
 
 ##### 封装
 
@@ -1222,19 +1207,18 @@ class 类名(父类1,父类2,....父类n)
 使用成员方法:super().成员方法()
 ```
 
-![image-20240930230216253](./Pictures/image-20240930230216253.png)
+![[image-20240930230216253.png]](./Pictures/image-20240930230216253.png)
 
 ##### 类型注解  	
 
 支持:
 
 - 变量的类型注释
-
 - 函数(方法)形参列表和返回值的类型注释
 
   基础语法: 变量:类型
 
-  类对象语法:  类型:类 =类()
+  类对象语法: 类型:类 =类()
 
 ```
 number :int =8566
@@ -1273,13 +1257,13 @@ union[类型.类型]
 
 同样的行为(函数),传入不同的对象,得到不同的状态
 
-![image-20241002150650252](./Pictures/image-20241002150650252.png)
+![[image-20241002150650252.png]](./Pictures/image-20241002150650252.png)
 
 抽象类:含有抽象方法的类称为抽象类
 
 抽象方法:含pass
 
-![image-20241002151809644](./Pictures/image-20241002151809644.png)
+![[image-20241002151809644.png]](./Pictures/image-20241002151809644.png)
 
 #### mysql
 
@@ -1343,15 +1327,11 @@ drop table if exists 表名称;
 insert inio 表[(列1,列2....)] values(值1,值2....)[,(值1侄儿)]
 ```
 
-
-
 删除delete
 
 ```
 delete from 表名称 where 条件判断
 ```
-
-
 
 更新update
 
@@ -1415,7 +1395,7 @@ for r in results:
 #d打印mysql数据库软件信息
 ```
 
-![image-20241003091235540](./Pictures/image-20241003091235540.png)
+![[image-20241003091235540.png]](./Pictures/image-20241003091235540.png)
 
 cnn.comit()
 
@@ -1449,6 +1429,3 @@ conf = SparkConf().setMaster("local[*]").setAppName("test_Spark_app")
 ## 1.数据计算方法
 
 pyspark计算都是基于rdd对象来进行的
-
-![image-20241013104458989](./Pictures/image-20241013104458989.png)
-

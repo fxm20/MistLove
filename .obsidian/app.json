@@ -9,7 +9,7 @@
   "showFrontmatter": true,
   "spellcheck": false,
   "spellcheckLanguages": null,
-  "attachmentFolderPath": "03-Attachment",
+  "attachmentFolderPath": "attachments",
   "showLineNumber": true,
   "defaultViewMode": "preview",
   "showUnsupportedFiles": true,
