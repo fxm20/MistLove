@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "12f3612e290a6f89",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbf40326c29d432a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea60d3da08b5b7c7",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Memos"
+            }
+          },
+          {
+            "id": "5c2be7b67edba1a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "案例进展情况.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "案例进展情况"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4aee974217539558",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f400a3293398cfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71f62fa29de3a9f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "5713aeb4d789620f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7455409108714734",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "677590fc8ee389c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b18b6fbd3b7a070",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57fc401a16b4ed03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "5c2be7b67edba1a8",
+  "lastOpenFiles": [
+    "任务看板.md",
+    "日记统计.md",
+    "delete.md"
+  ]
+}

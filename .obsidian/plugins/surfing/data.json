@@ -1,0 +1,35 @@
+{
+  "defaultSearchEngine": "bing",
+  "customSearchEngine": [],
+  "alwaysShowCustomSearch": false,
+  "showOtherSearchEngines": true,
+  "showSearchBarInPage": false,
+  "markdownPath": "/",
+  "customHighlightFormat": false,
+  "highlightFormat": "[{CONTENT}]({URL})",
+  "highlightInSameTab": false,
+  "openInSameTab": false,
+  "showRefreshButton": true,
+  "openInObsidianWeb": false,
+  "useCustomIcons": false,
+  "useWebview": false,
+  "useIconList": true,
+  "darkMode": true,
+  "bookmarkManager": {
+    "openBookMark": true,
+    "saveBookMark": true,
+    "pagination": "12",
+    "category": "- Obsidian\n- CSS\n- 娱乐",
+    "defaultColumnList": [
+      "name",
+      "description",
+      "url",
+      "category",
+      "tags",
+      "created",
+      "modified",
+      "action"
+    ],
+    "defaultFilterType": "tree"
+  }
+}

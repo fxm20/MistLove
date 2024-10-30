@@ -1,0 +1,34 @@
+{
+  "version": "2.0",
+  "layout": [
+    null
+  ],
+  "settings": {
+    "splitDirection": "horizontal",
+    "nodeMinHeight": 16,
+    "lineHeight": "1em",
+    "spacingVertical": 5,
+    "spacingHorizontal": 80,
+    "paddingX": 8,
+    "initialExpandLevel": -1,
+    "colorFreezeLevel": 0,
+    "animationDuration": 500,
+    "maxWidth": 0,
+    "highlight": false,
+    "coloring": "depth",
+    "depth1Color": "#fed766",
+    "depth1Thickness": "10",
+    "depth2Color": "#2ab7ca",
+    "depth2Thickness": "6",
+    "depth3Color": "#fe4a49",
+    "depth3Thickness": "4",
+    "defaultColor": "#000000",
+    "defaultThickness": "2",
+    "screenshotBgColor": "#039614",
+    "screenshotBgStyle": "transparent",
+    "screenshotTextColor": "#ffffff",
+    "screenshotTextColorEnabled": false,
+    "titleAsRootNode": true,
+    "useThemeFont": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "defaultNote": "01-Template/home",
+  "useMoment": false,
+  "momentFormat": "YYYY-MM-DD",
+  "workspace": "Canvas",
+  "workspaceEnabled": true,
+  "hasRibbonIcon": true,
+  "openMode": "Replace all open notes",
+  "manualOpenMode": "Keep open notes",
+  "view": "Reading view",
+  "revertView": true,
+  "refreshDataview": true,
+  "autoCreate": false,
+  "pin": false
+}

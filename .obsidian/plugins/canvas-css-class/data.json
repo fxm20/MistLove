@@ -1,0 +1,15 @@
+{
+  "canvasAdded": [
+    {
+      "canvasPath": "未命名_middle.canvas",
+      "canvasClass": [
+        "paper-canvas-background"
+      ],
+      "appendMode": "workspace-leaf-content"
+    }
+  ],
+  "logLevel": "none",
+  "defaultAppendMode": "workspace-leaf-content",
+  "addButtonSetting": false,
+  "addButtonSwitchView": false
+}

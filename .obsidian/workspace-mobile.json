@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "63d5273371a15f8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c081bdfa7d639de4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2cb209a62c6333d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30-Example/分栏效果示例.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3e138e5d21985d3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d1ecf9b7169fefd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20221204231631.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73b7938038c466d2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5ab38f4d4c6c410c",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "6769624d56472bf2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c662bf91ffe71c66",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "timeline",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "75ed9255e401acdd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1881018487446042",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "4e75e2766ad23cb3",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "right": {
+    "id": "f49acf5a1a1391a2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cdcfcfcfff3e9c79",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "e552180f3c1946e9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "20221204231631.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6779e3fc26d5d857",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "20221204231631.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c54dd43514231fea",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "20221204231631.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "7d1ecf9b7169fefd",
+  "lastOpenFiles": [
+    "30-Example/分栏效果示例.md",
+    "01-Template/home.md",
+    "30-Example/timeline callout效果.md",
+    "20221023220657.md",
+    "30-Example/30-Example.md"
+  ]
+}
