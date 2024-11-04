@@ -156,7 +156,7 @@ div是单独一行 span跨距
 | submit    | 定义提交按钮                      |
 | text      | 定义单行输入字段                  |
 | name      | 定义input元素的名称               |
-| value     | 规定input元素的值                 |
+| value     | 规定input元素的默认的值                 |
 | checked   | 规定此input元素首次加载时应被选中 |
 | maxlength | 规定输入自负担最大长度            |
 | placeholder          |  默认显示                                 |
