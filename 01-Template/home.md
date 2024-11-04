@@ -64,7 +64,7 @@ dv.paragraph(desc + `<img style="margin-top:-50px;vertical-align: bottom; -webki
 ````ad-grid
 > [!profile-card|cards]  `button-refreshhomepage1`
 > ***快乐摸鱼又一天***
-> **瞅瞅你的笔记写了多少篇**
+> **呜呜呜**
 >>[!profile-card-inf|noborder]
 >>```dataviewjs
 >>let nofold = '!"01-Template"'

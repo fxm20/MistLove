@@ -1,16 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Python",
-      "path": "逆向/Python.md"
+      "basename": "常用工具",
+      "path": "01-Template/常用工具.md"
     },
     {
       "basename": "home",
       "path": "01-Template/home.md"
     },
     {
-      "basename": "image-20240921143037514",
-      "path": "image-20240921143037514.md"
+      "basename": "从这开始",
+      "path": "从这开始.md"
+    },
+    {
+      "basename": "html基础语法",
+      "path": "Demo/前端/html基础语法.md"
+    },
+    {
+      "basename": "Obsidian 快捷键一览表",
+      "path": "10-Help/Obsidian 快捷键一览表.md"
+    },
+    {
+      "basename": "Pasted image 20241101180815",
+      "path": "attachments/Pasted image 20241101180815.png"
+    },
+    {
+      "basename": "Pasted image 20241031172951",
+      "path": "attachments/Pasted image 20241031172951.png"
+    },
+    {
+      "basename": "20241101183732",
+      "path": "Demo/JAVAScript/20241101183732.md"
+    },
+    {
+      "basename": "Python",
+      "path": "逆向/Python.md"
+    },
+    {
+      "basename": "python进阶",
+      "path": "Demo/python进阶.md"
+    },
+    {
+      "basename": "彩色时钟",
+      "path": "01-Template/彩色时钟.md"
+    },
+    {
+      "basename": "echarts-笔记动态显示-分布",
+      "path": "30-Example/◾ Echarts/echarts-笔记动态显示-分布.md"
+    },
+    {
+      "basename": "2.smali及其语法",
+      "path": "逆向/2.smali及其语法.md"
+    },
+    {
+      "basename": "文件夹所有标签",
+      "path": "30-Example/◾ Dataview相关实例/文件夹所有标签.md"
+    },
+    {
+      "basename": "ob提示框(callout)样式展示",
+      "path": "30-Example/ob提示框(callout)样式展示.md"
+    },
+    {
+      "basename": "任务卡片-dataview 任务查询举例",
+      "path": "30-Example/任务卡片-dataview 任务查询举例.md"
     },
     {
       "basename": "obsidian_image",
@@ -21,16 +73,8 @@
       "path": "03-Attachment/03-Attachment.md"
     },
     {
-      "basename": "从这开始",
-      "path": "从这开始.md"
-    },
-    {
       "basename": "python爬虫",
       "path": "逆向/python爬虫.md"
-    },
-    {
-      "basename": "2.smali及其语法",
-      "path": "逆向/2.smali及其语法.md"
     },
     {
       "basename": "番茄小说爬虫",
@@ -43,14 +87,6 @@
     {
       "basename": "易语言",
       "path": "逆向/易语言.md"
-    },
-    {
-      "basename": "彩色时钟",
-      "path": "01-Template/彩色时钟.md"
-    },
-    {
-      "basename": "任务卡片-dataview 任务查询举例",
-      "path": "30-Example/任务卡片-dataview 任务查询举例.md"
     },
     {
       "basename": "adb指令",
@@ -109,10 +145,6 @@
       "path": "02-Tips/🥑Blue Topaz Themes Tips.md"
     },
     {
-      "basename": "常用工具",
-      "path": "01-Template/常用工具.md"
-    },
-    {
       "basename": "微信读书清单",
       "path": "30-Example/◾ Dataview相关实例/微信读书清单.md"
     },
@@ -167,26 +199,6 @@
     {
       "basename": "}FP`%@6]P61LO)Y$`C11HBP",
       "path": "03-Attachment/}FP`%@6]P61LO)Y$`C11HBP.png"
-    },
-    {
-      "basename": "FastStart-StartupScript",
-      "path": "01-Template/FastStart-StartupScript.md"
-    },
-    {
-      "basename": "示例库内置的插件列表",
-      "path": "01-Template/示例库内置的插件列表.md"
-    },
-    {
-      "basename": "打开文档的第一个外链接",
-      "path": "01-Template/打开文档的第一个外链接.md"
-    },
-    {
-      "basename": "插件介绍",
-      "path": "02-Tipsʾ/插件介绍/插件介绍.md"
-    },
-    {
-      "basename": "示例库移植说明",
-      "path": "02-Tipsʾ/示例库移植说明/示例库移植说明.md"
     }
   ],
   "omittedPaths": [],
