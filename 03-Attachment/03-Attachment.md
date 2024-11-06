@@ -144,6 +144,7 @@ obsidianUIMode: preview
 	- [[Pasted image 20230101113044.png]]
 	- [[Pasted image 20241030222631.png]]
 	- [[Pasted image 20241030223013.png]]
+	- [[Pasted image 20241105173428.png]]
 	- [[YX2S5G0%`W6B~NOTIV_0X~D.png]]
 
 %% End Waypoint %%

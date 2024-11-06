@@ -747,7 +747,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Demo/前端/html基础语法.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "backlinks": false,
                     "source": false
                   },
@@ -889,16 +889,16 @@
           "markdown-importer:打开 Markdown 格式转换器": false,
           "audio-recorder:开始/结束录音": false,
           "workspaces:管理工作区布局": false,
-          "obsidian-memos:Memos": false,
           "dbfolder:创建一个新数据库表": false,
           "obsidian-projects:Open projects": false,
           "templater-obsidian:Templater": false,
           "omnisearch:Omnisearch": false,
-          "cmdr:显示当前文件": false
+          "cmdr:显示当前文件": false,
+          "obsidian-memos:Memos": false
         }
       },
       "active": "fc371ae36bc5eac7",
-      "mtime": "2024-11-04T12:25:25+08:00"
+      "mtime": "2024-11-05T08:44:15+08:00"
     }
   },
   "active": "Canvas"

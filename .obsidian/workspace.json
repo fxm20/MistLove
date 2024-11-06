@@ -157,20 +157,23 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "audio-recorder:开始/结束录音": false,
       "workspaces:管理工作区布局": false,
-      "obsidian-memos:Memos": false,
       "dbfolder:创建一个新数据库表": false,
       "obsidian-projects:Open projects": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "cmdr:显示当前文件": false
+      "cmdr:显示当前文件": false,
+      "obsidian-memos:Memos": false
     }
   },
   "active": "fc371ae36bc5eac7",
   "lastOpenFiles": [
+    "03-Attachment/Pasted image 20241105173428.png",
+    "30-Example/◾ Echarts/echarts-日历.md",
+    "30-Example/◾ Dataview相关实例/【dv】tasks任务以日历视图汇总.md",
+    "Demo/前端/html基础语法.md",
     "02-Tips/示例库移植说明/如何把示例库移植到你现有的库中？.md",
     "02-Tips/示例库移植说明/示例库移植说明.md",
     "01-Template/home.md",
-    "Demo/前端/html基础语法.md",
     "01-Template/常用工具.md",
     "20-Diary/2024-11-04.md",
     "Pasted image 20220331161219.png.md",
@@ -204,9 +207,6 @@
     "逆向/python爬虫.md",
     "逆向/番茄小说爬虫.md",
     "逆向/投屏.md",
-    "逆向/易语言.md",
-    "逆向/adb指令.md",
-    "逆向/CMS视频资源站.md",
     "逆向",
     "逆向"
   ]
